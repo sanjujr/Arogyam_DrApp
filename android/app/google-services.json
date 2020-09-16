@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "309132614366",
+    "firebase_url": "https://project-arogyam.firebaseio.com",
+    "project_id": "project-arogyam",
+    "storage_bucket": "project-arogyam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309132614366:android:ce52be25f9ebb70f2ac04f",
+        "android_client_info": {
+          "package_name": "com.project.arogyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309132614366-3vmcfhoetrr3oco1hhtg0lf9695fvcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsukqMPAt4JZ0ddWviQ4cGXiMSppWwM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309132614366-3vmcfhoetrr3oco1hhtg0lf9695fvcao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309132614366:android:55f049e9f48849712ac04f",
+        "android_client_info": {
+          "package_name": "com.projectarogyam.drarogyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309132614366-3vmcfhoetrr3oco1hhtg0lf9695fvcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsukqMPAt4JZ0ddWviQ4cGXiMSppWwM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309132614366-3vmcfhoetrr3oco1hhtg0lf9695fvcao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
