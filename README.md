@@ -1,6 +1,6 @@
 # drarogyam
 
-A new Flutter project.
+Android app for doctors
 
 ## Getting Started
 
